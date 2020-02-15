@@ -1,6 +1,6 @@
 ![Logo](https://github.com/theMuhammadKhalid/hand-gesture-keymouse/blob/master/Logo/Hand%20Gesture%20KeyMouse.jpg)
 # :dart: Objectives
-- The goal of this project is try to develop a computer vision based software for controlling keyboard or mouse events like mouse clicks, cursor motion and keystrokes by using hand gesture.
+- The goal of this project is try to develop a computer vision based software for controlling keyboard or mouse events like mouse clicks, cursor motion or keystrokes by using hand gesture.
 - Try to develop a computer vision based keyboard.
 - Try to develop a computer vision based mouse.  
 
