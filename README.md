@@ -9,7 +9,7 @@
 - For **Opencv** type **`pip install opencv-python`** in command prompt
 - For **Numpy** type **`pip install numpy`** in command prompt
 - For **PyAutoGUI** type **`pip install pyautogui`** in command prompt
-- For **TensorFlow** type **`pip install tensorflow`** or `**pip install --upgrade tensorflow**` in command prompt
+- For **TensorFlow** type **`pip install tensorflow`** or **`pip install --upgrade tensorflow`** in command prompt
 - For **Python Imaging Library (PIL)** type **`pip install Pillow`** in command prompt
 
 # :package: Datasets
