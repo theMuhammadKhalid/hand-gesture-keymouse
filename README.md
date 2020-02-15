@@ -12,6 +12,11 @@
 - For **TensorFlow** type **`pip install tensorflow`** or **`pip install --upgrade tensorflow`** in command prompt
 - For **Python Imaging Library (PIL)** type **`pip install Pillow`** in command prompt
 
+# :car: How to Test Drive ?
+- For Alphabets Keys run **alphabets_keys_test_drive.py** file
+- For Numeric Keys run **numeric_keys_test_drive.py** file
+- For Mouse run **mouse_test_drive.py** file
+
 # :package: Datasets
 You can download datasets for your own model training from the following link.
 - [Sign Language for Alphabets](https://www.kaggle.com/muhammadkhalid/sign-language-for-alphabets)
