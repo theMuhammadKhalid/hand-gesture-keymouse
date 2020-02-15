@@ -17,4 +17,7 @@ You can download datasets for your own model training from the following link.
 - [Sign Language for Alphabets](https://www.kaggle.com/muhammadkhalid/sign-language-for-alphabets)
 - [Sign Language for Numbers](https://www.kaggle.com/muhammadkhalid/sign-language-for-numbers)
         
-# Thanks :smiley:
+# :movie_camera: Screenshots  
+<img src="https://github.com/theMuhammadKhalid/hand-gesture-keymouse/blob/master/Screenshots/Mouse.jpg" width="100%"><img src="https://github.com/theMuhammadKhalid/hand-gesture-keymouse/blob/master/Screenshots/Alphabets_1.jpg" width="50%"><img src="https://github.com/theMuhammadKhalid/hand-gesture-keymouse/blob/master/Screenshots/Numbers_1.jpg" width="50%">
+
+<h2 align="center"> Thanks :smiley: </h2>
