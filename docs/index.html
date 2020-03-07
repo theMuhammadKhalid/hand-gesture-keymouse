@@ -1,11 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hand Gesture KeyMouse</title>
+    <!-- Adding Style -->
+    <link rel="stylesheet" href="main.css">
+    <!-- Adding Font Awesome icons -->
+    <script src="https://kit.fontawesome.com/501371ab85.js" crossorigin="anonymous"></script>
+    <!-- Adding Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap" rel="stylesheet">
 </head>
+
 <body>
-    <p> Hand Gesture KeyMouse </p>
+    <header>
+        <img id="logo-with-title" src="logo-with-title.jpg" alt="Logo with title">
+    </header>
+
+    <div id="main-content">
+        <h2 id="objectives"> <span class="fas fa-road"></span> Objectives</h2>
+        <ul>
+            <li>The goal of this project is try to develop a computer vision based software for controlling keyboard or
+                mouse events like mouse clicks, cursor motion or keystrokes by using hand gesture.</li>
+            <li>Try to develop a computer vision based keyboard.</li>
+            <li>Try to develop a computer vision based mouse.</li>
+        </ul>
+
+        <h2 id="requirements"> <span class="fas fa-clipboard-list"></span> Requirements </h2>
+        <ul>
+            <li>Download <a href="https://www.python.org/downloads/" target="_blank">Python</a></li>
+            <li>For <b>Opencv</b> type <code>pip install opencv-python</code> in command prompt</li>
+            <li>For <b>Numpy</b> type <code>pip install numpy</code> in command prompt</li>
+            <li>For <b>PyAutoGUI</b> type <code>pip install pyautogui</code> in command prompt</li>
+            <li>For <b>TensorFlow</b> type <code>pip install tensorflow</code> or <code>pip install --upgrade tensorflow</code> in command prompt</li>
+            <li>For <b>Python Imaging Library (PIL)</b> type <code>pip install Pillow</code> in command prompt</li>
+        </ul>
+
+        <h2 id="howTo"> <span class="fas fa-car"></span> How to Test Drive ? </h2>
+        <p> First <a href="https://github.com/theMuhammadKhalid/hand-gesture-keymouse" target="_blank">Download the code from Github</a> and then</p>
+        <ul>
+            <li>For Alphabets Keys run <b>alphabets_keys_test_drive.py</b> file</li>
+            <li>For Numeric Keys run <b>numeric_keys_test_drive.py</b> file</li>
+            <li>For Mouse run <b>mouse_test_drive.py</b> file</li>
+        </ul>
+
+        <h2 id="datasets"> <span class="fas fa-cube"></span> Datasets </h2>
+        <p>You can download datasets for your own model training from the following link.</p>
+        <ul>
+            <li><a href="https://www.kaggle.com/muhammadkhalid/sign-language-for-alphabets" target="_blank">Sign Language for Alphabets</a></li>
+            <li><a href="https://www.kaggle.com/muhammadkhalid/sign-language-for-numbers" target="_blank">Sign Language for Numbers</a></li>
+        </ul>
+           
+        <h2 id="screenshots"> <span class="fas fa-camera-retro"></span> Screenshots </h2>
+        <img class="screenshot" src="../Screenshots/Mouse.jpg" alt="Mouse Screenshot">
+        <img class="subScreenshot" src="../Screenshots/Alphabets_1.jpg" alt="Alphabet Screenshot">
+        <img class="subScreenshot" src="../Screenshots/Numbers_1.jpg" alt="Number Screenshot">
+    </div>
+
+    <footer>
+        <h3 id="thanks"> Thanks <span class="far fa-smile"></span> </h3>
+    </footer>
 </body>
+
 </html>

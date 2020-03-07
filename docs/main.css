@@ -1,0 +1,55 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    flex-direction: column;
+    font-size: medium;
+    align-items: center;
+}
+
+#logo-with-title{
+    max-width: 100%;
+}
+
+#main-content{
+    margin: 2%;
+}
+
+@media screen and (min-width: 1000px){
+    #main-content{
+        margin: 2%;
+        max-width: 800px;
+    }
+}
+
+h2{
+    font: 200% 'Arial', 'sans-serif';
+    border-bottom:  2px solid black;
+}
+
+ul, p{
+    font: 100%/1.5em 'Arial', 'sans-serif';
+}
+
+code{
+    font-weight: bold;
+	background-color: rgba(181, 191, 201, 0.507);
+    border-radius: 3px;
+    font-family: 'Source Code Pro', 'monospace', 'sans-serif';
+}
+
+.screenshot{
+    max-width: 100%;
+}
+
+.subScreenshot{
+    max-width: 41%;
+}
+
+.fas{
+    color: rgb(0, 0, 0);
+}
+
+footer{
+    font: 200% 'Arial', 'sans-serif';
+}
